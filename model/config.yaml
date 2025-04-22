@@ -1,0 +1,6 @@
+path : "/Users/bahriyeisgor/Desktop/object_detection_with_yolov8/data"
+train : "/Users/bahriyeisgor/Desktop/object_detection_with_yolov8/Data/images/train"
+val : "/Users/bahriyeisgor/Desktop/object_detection_with_yolov8/Data/images/train"
+
+names :
+  0 : tick
